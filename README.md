@@ -1,0 +1,1 @@
+This is a study conducted on the feasibility of a hydrogen fueled turbofan airliner to replace a Boeing 727-800 model aircraft with a CFM56-7B. Completed as part of the ME424 Energy Conversion module at the University of Galway by a fourth-year mechanical engineering student.
